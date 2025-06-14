@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify cannot login when the email field is left blank</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4f636fd6-ed67-402c-9a37-20e515770cf7</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7396fc84-1563-440f-8dab-cf104152581d</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dde91430-7b9e-42af-a2f2-62e24073dc6c</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5930c052-5db0-4b1e-beb8-53dc6219d973</id>
+      <masked>false</masked>
+      <name>expected_error</name>
+   </variable>
+</TestCaseEntity>

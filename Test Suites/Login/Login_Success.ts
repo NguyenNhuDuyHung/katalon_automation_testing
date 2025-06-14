@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Login_Success</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>9133a304-598d-43cd-b8d1-2ef9ce3824ca</testSuiteGuid>
+   <testCaseLink>
+      <guid>6a3a8e28-0305-4a75-b4eb-c380cc24c53f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_LOGIN_USER/Verify login success by admin role</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>394b1e95-3b19-4a4b-976e-bfb79e97c59d</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>1-1</value>
+         </iterationEntity>
+         <testDataId>Data Files/Login/Login_Success_Data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>394b1e95-3b19-4a4b-976e-bfb79e97c59d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>7396fc84-1563-440f-8dab-cf104152581d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>394b1e95-3b19-4a4b-976e-bfb79e97c59d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>dde91430-7b9e-42af-a2f2-62e24073dc6c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e969ac64-0a33-418c-a7b7-5911f4263857</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_LOGIN_USER/Login_Success_By_User_Role</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>db212b45-1513-4e43-b79c-dece450a0cff</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>2-2</value>
+         </iterationEntity>
+         <testDataId>Data Files/Login/Login_Success_Data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>db212b45-1513-4e43-b79c-dece450a0cff</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>7396fc84-1563-440f-8dab-cf104152581d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>db212b45-1513-4e43-b79c-dece450a0cff</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>dde91430-7b9e-42af-a2f2-62e24073dc6c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>db212b45-1513-4e43-b79c-dece450a0cff</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>name</value>
+         <variableId>aad81204-c9cb-4c94-834a-bd63ba676344</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
