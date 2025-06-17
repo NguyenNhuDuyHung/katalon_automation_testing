@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_view_cart_btn</name>
+   <tag></tag>
+   <elementGuidId>1a979251-76fb-4ba3-953f-ef9e4dc90865</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ms-1.d-none.d-md-inline-block.cart-total.fw-bold</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarContent']/div/a[2]/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; 1 21.970.000đ&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>87840462-5423-40c4-83d2-8b17510ec99a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ms-1 d-none d-md-inline-block cart-total fw-bold</value>
+      <webElementGuid>6a1ed21b-ad2e-49e0-8668-6d43d7b86846</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>21.970.000đ</value>
+      <webElementGuid>a266f46e-f448-4164-b652-4078ad4ba627</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarContent&quot;)/div[@class=&quot;d-flex align-items-center gap-2&quot;]/a[@class=&quot;btn text-white position-relative rounded-pill&quot;]/span[@class=&quot;ms-1 d-none d-md-inline-block cart-total fw-bold&quot;]</value>
+      <webElementGuid>18b8d9aa-669b-4d78-97f5-f2bd9035f97e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarContent']/div/a[2]/span[2]</value>
+      <webElementGuid>b1d36280-9bd8-4847-8856-c7cb429e9e0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sản phẩm'])[1]/following::span[2]</value>
+      <webElementGuid>a7041807-1107-4e21-b004-17b978a387b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Desktop'])[1]/preceding::span[1]</value>
+      <webElementGuid>71108b1e-cbc1-4ce7-9431-5fb0d9845d9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laptop'])[1]/preceding::span[1]</value>
+      <webElementGuid>75a5848f-297e-4886-9a85-d3de35be7315</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='21.970.000đ']/parent::*</value>
+      <webElementGuid>bd3c791b-2233-4047-a10c-8eecb24421eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>0267dd78-3654-4685-8760-88b0649fdbf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '21.970.000đ' or . = '21.970.000đ')]</value>
+      <webElementGuid>5afca267-bac8-4140-b43b-4c04802703fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

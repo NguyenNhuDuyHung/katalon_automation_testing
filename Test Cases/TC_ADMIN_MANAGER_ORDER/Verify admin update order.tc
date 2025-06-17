@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify admin update order</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>88997fd0-58a1-4fc3-8c7e-0e1a7b863186</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>4c5fd509-d145-40ea-92d2-fb40c66f2f5d</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Manage Order/Manage_Order_Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>4c5fd509-d145-40ea-92d2-fb40c66f2f5d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>admin_note</value>
+      <variableId>bbe51407-7bf6-43fc-9069-273f35e6e645</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>4c5fd509-d145-40ea-92d2-fb40c66f2f5d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>tracking_code</value>
+      <variableId>2c0c5dfa-c91f-4690-9fbd-deefd5700e99</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>4c5fd509-d145-40ea-92d2-fb40c66f2f5d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>notification</value>
+      <variableId>43ed4fe4-1bbf-46d0-a1e5-7a7aa0f0e06d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bbe51407-7bf6-43fc-9069-273f35e6e645</id>
+      <masked>false</masked>
+      <name>admin_note</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2c0c5dfa-c91f-4690-9fbd-deefd5700e99</id>
+      <masked>false</masked>
+      <name>tracking_code</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>43ed4fe4-1bbf-46d0-a1e5-7a7aa0f0e06d</id>
+      <masked>false</masked>
+      <name>notification</name>
+   </variable>
+</TestCaseEntity>

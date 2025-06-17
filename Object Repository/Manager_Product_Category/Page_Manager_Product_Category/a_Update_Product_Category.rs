@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Update_Product_Category</name>
+   <tag></tag>
+   <elementGuidId>fa48401e-9d22-4cd6-b7e8-09cfb62afcd3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='DataTables_Table_0']/tbody/tr/td[7]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-sm.btn-info</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Sửa&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3581d3aa-8f1e-43d6-9422-8cc2a1bd69ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/admin/categories/edit/67e70e9ccb2d4512cbabad92</value>
+      <webElementGuid>68a4b5e0-09b6-437d-ae7d-1eb1eb94c330</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm btn-info</value>
+      <webElementGuid>a08fec3f-d106-44e1-9d72-2d7ebd6f0874</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                                 Sửa
+                                                            </value>
+      <webElementGuid>9c4368ea-6a92-4080-8fc3-7a4f63df5644</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DataTables_Table_0&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[7]/a[@class=&quot;btn btn-sm btn-info&quot;]</value>
+      <webElementGuid>8e3c8b0f-1d5f-4645-bb7d-6aebf7e6c669</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='DataTables_Table_0']/tbody/tr/td[7]/a</value>
+      <webElementGuid>53e9cc82-0b35-4d4f-aad5-385806c4ef6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hoạt động'])[1]/following::a[1]</value>
+      <webElementGuid>b33e98f5-7d69-4fba-b49e-c73f70d80d13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='desktop'])[1]/following::a[1]</value>
+      <webElementGuid>a636f111-6b79-4e09-9213-33a613dc93c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laptop'])[1]/preceding::a[1]</value>
+      <webElementGuid>932abb6f-c093-43f1-b496-45d673601999</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sửa']/parent::*</value>
+      <webElementGuid>f40edf6b-2888-45f5-b95c-197ce97b8ab0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/admin/categories/edit/67e70e9ccb2d4512cbabad92')]</value>
+      <webElementGuid>ad5cc28d-f609-4280-ae53-6cd16304e5c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/a</value>
+      <webElementGuid>60c60059-6d19-4d54-84e5-4a40e6686945</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/admin/categories/edit/67e70e9ccb2d4512cbabad92' and (text() = '
+                                                                 Sửa
+                                                            ' or . = '
+                                                                 Sửa
+                                                            ')]</value>
+      <webElementGuid>6c13b4c1-cbb4-492a-bdb6-6ca11aae62df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

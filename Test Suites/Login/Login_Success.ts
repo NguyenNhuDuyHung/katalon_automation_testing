@@ -43,7 +43,7 @@
       <guid>e969ac64-0a33-418c-a7b7-5911f4263857</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC_LOGIN_USER/Login_Success_By_User_Role</testCaseId>
+      <testCaseId>Test Cases/TC_LOGIN_USER/Verify login success by user role</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>db212b45-1513-4e43-b79c-dece450a0cff</id>

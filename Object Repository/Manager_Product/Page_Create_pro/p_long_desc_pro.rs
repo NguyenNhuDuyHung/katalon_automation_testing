@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_long_desc_pro</name>
+   <tag></tag>
+   <elementGuidId>66349d94-7335-499d-bf16-460ceb5ce0c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-wrapper']/div[3]/div[2]/div/div/div/div/div/form/div[10]/div/div/div[3]/div[3]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.note-editable.panel-body > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>form >> internal:role=paragraph</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>166e2a06-c44b-4aa6-8e50-7ff838a47e97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-wrapper&quot;)/div[@class=&quot;content-body&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;basic-form&quot;]/form[1]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-sm-10&quot;]/div[@class=&quot;note-editor note-frame panel panel-default&quot;]/div[@class=&quot;note-editing-area&quot;]/div[@class=&quot;note-editable panel-body&quot;]/p[1]</value>
+      <webElementGuid>904e9d6e-fe94-4e64-b2cd-e3e7b218b8e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-wrapper']/div[3]/div[2]/div/div/div/div/div/form/div[10]/div/div/div[3]/div[3]/p</value>
+      <webElementGuid>5c0e82f5-5092-4e9a-903f-5d0c7c9f5494</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nhập mô tả chi tiết sản phẩm...'])[1]/following::p[1]</value>
+      <webElementGuid>640e82f6-0161-449f-94d5-3f0bc2927530</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset to default'])[1]/following::p[1]</value>
+      <webElementGuid>20b2db77-c453-4268-bedb-410cc21fb019</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Insert Link'])[1]/preceding::p[1]</value>
+      <webElementGuid>90d0110f-4fdf-4a78-800f-0767e9953a7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Text to display'])[1]/preceding::p[1]</value>
+      <webElementGuid>37035590-404c-4f51-8204-57d966fc1577</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/p</value>
+      <webElementGuid>0a8e7355-c204-4220-bd57-1260ca167912</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

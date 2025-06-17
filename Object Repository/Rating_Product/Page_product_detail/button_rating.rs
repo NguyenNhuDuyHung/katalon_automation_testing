@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_rating</name>
+   <tag></tag>
+   <elementGuidId>afa058c7-4919-4d69-bf9c-a8984410bb00</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#submit-review</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='submit-review']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; Gửi đánh giá&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c413c923-cc1d-469d-92a2-437a04655a07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>2fa5c514-09db-47f9-8030-c36d9493e02c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>81761b04-d9fc-4131-b7b2-c7fa5efae950</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>submit-review</value>
+      <webElementGuid>1818cbc8-01d2-4d61-b227-a470f9da7d66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                    Gửi đánh giá
+                                                </value>
+      <webElementGuid>5f34efea-ee5f-40ae-9312-030dba598094</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;submit-review&quot;)</value>
+      <webElementGuid>4022effd-4089-4273-82a6-3a9d358b6b73</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='submit-review']</value>
+      <webElementGuid>87c9823c-4bbd-45bd-852d-537a97209280</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='review-form']/button</value>
+      <webElementGuid>1580422a-da55-493a-86d6-d6c604a0b78c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tối thiểu 10 ký tự'])[1]/following::button[1]</value>
+      <webElementGuid>83c12190-a595-4268-aabe-611baa5e85db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nhận xét của bạn:'])[1]/following::button[1]</value>
+      <webElementGuid>056caafd-8677-41df-8d7c-51a805f3de4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nguyễn Văn Quang'])[1]/preceding::button[1]</value>
+      <webElementGuid>6f809bfe-13ad-4e54-bd46-79c801e253c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nguyễn Thành Nam'])[1]/preceding::button[1]</value>
+      <webElementGuid>1131d588-0aa8-428b-8b0e-c2c67984d955</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Gửi đánh giá']/parent::*</value>
+      <webElementGuid>d00601b1-c9f1-4b6c-bb56-f965e666a7b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button</value>
+      <webElementGuid>cc241897-f353-4694-abd5-a1e7fb04acfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @id = 'submit-review' and (text() = '
+                                                    Gửi đánh giá
+                                                ' or . = '
+                                                    Gửi đánh giá
+                                                ')]</value>
+      <webElementGuid>ac714027-9724-4d0c-b05b-f980b25dd938</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

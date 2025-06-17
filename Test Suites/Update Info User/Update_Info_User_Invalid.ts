@@ -225,7 +225,7 @@
       <guid>32748ff7-c57d-4269-942d-b393c24f5ff7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC_UPDATE_INFO_USER/Verify user cannot update infomation white an invalid phone number format</testCaseId>
+      <testCaseId>Test Cases/TC_UPDATE_INFO_USER/Verify user cannot update infomation when an invalid phone number format</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>55f6e51b-52b7-424f-a2a9-db2d71e47bb7</id>

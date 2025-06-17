@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Ht hn_fa fa-trash</name>
+   <tag></tag>
+   <elementGuidId>9fcc6f12-25fd-4835-a05e-1723ddb9abc5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='DataTables_Table_0']/tbody/tr/td[8]/div/form/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-trash</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;DONHANG500TRIEU Áp dụng với các đơn hàng có giá > 500 triệu Phần trăm 70% 1/5/2025 - 31/5/2025 9 Hết hạn  &quot;i] >> internal:role=button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>8ab1317a-53e6-4a01-b39c-78f94de5b9b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-trash</value>
+      <webElementGuid>73ff4170-41bd-4bc3-88a2-f23cdb55b8f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DataTables_Table_0&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[8]/div[@class=&quot;d-flex&quot;]/form[1]/button[@class=&quot;btn btn-danger btn-sm&quot;]/i[@class=&quot;fa fa-trash&quot;]</value>
+      <webElementGuid>c0a56f72-5bf9-4f7d-9469-bf387bca1e13</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='DataTables_Table_0']/tbody/tr/td[8]/div/form/button/i</value>
+      <webElementGuid>91750559-278a-4465-88f7-9f19c1ac21f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/i</value>
+      <webElementGuid>88da088e-c920-44cf-8dd9-074b00a71383</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

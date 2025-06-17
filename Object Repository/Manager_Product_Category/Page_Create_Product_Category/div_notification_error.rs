@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_notification_error</name>
+   <tag></tag>
+   <elementGuidId>7df2806a-e97b-4df9-a26d-b6190231e5b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-wrapper']/div[3]/div[2]/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.alert.alert-danger</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Đường dẫn đã tồn tại, vui lòng chọn đường dẫn khác&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ce050cc4-a357-44be-a80f-c7ff57a133b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alert alert-danger</value>
+      <webElementGuid>6b59ed05-5409-4a2c-90d1-5e25015cdb8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Đường dẫn đã tồn tại, vui lòng chọn đường dẫn khác</value>
+      <webElementGuid>a927ec49-9c0a-4b6d-8f6f-c82b05fa9026</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-wrapper&quot;)/div[@class=&quot;content-body&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;alert alert-danger&quot;]</value>
+      <webElementGuid>51baeca1-dc56-493f-bc12-3ea61aa67095</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-wrapper']/div[3]/div[2]/div/div/div/div/div</value>
+      <webElementGuid>53657054-d4d7-4657-824f-3f6718c2b547</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thêm danh mục sản phẩm mới'])[1]/following::div[1]</value>
+      <webElementGuid>2b6a0e54-2e75-45c2-92e9-5ff1d2f13085</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thêm danh mục'])[1]/following::div[6]</value>
+      <webElementGuid>a0c481cd-b366-42cd-87f2-183bee760bfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tên danh mục'])[1]/preceding::div[1]</value>
+      <webElementGuid>08c030ba-f497-4bab-ba9a-1f354709d8d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đường dẫn (Slug)'])[1]/preceding::div[2]</value>
+      <webElementGuid>c6b6467b-a0e0-42e7-bdcc-3152e5297020</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Đường dẫn đã tồn tại, vui lòng chọn đường dẫn khác']/parent::*</value>
+      <webElementGuid>070d12cf-8e09-4977-8499-6f9af3051a5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div/div/div</value>
+      <webElementGuid>df88e240-355d-403b-9cd1-897c3b2a2360</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Đường dẫn đã tồn tại, vui lòng chọn đường dẫn khác' or . = 'Đường dẫn đã tồn tại, vui lòng chọn đường dẫn khác')]</value>
+      <webElementGuid>bc37de11-4ec7-4bd5-a822-c81a7bcc2e7e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

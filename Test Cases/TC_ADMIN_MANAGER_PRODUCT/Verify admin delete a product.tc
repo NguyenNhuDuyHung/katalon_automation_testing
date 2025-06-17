@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify admin delete a product</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2d664adb-4600-4b9a-940b-f81a6088b196</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9ea7f9a1-a3ae-4556-a763-5d47b3e925df</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5cfc38b2-11c5-46ea-bfaf-b95fa471eab7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>02835884-96ad-43f6-97d6-138e52447b87</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'admin@gmail.com'</defaultValue>
+      <description></description>
+      <id>9ea7f9a1-a3ae-4556-a763-5d47b3e925df</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin@123'</defaultValue>
+      <description></description>
+      <id>5cfc38b2-11c5-46ea-bfaf-b95fa471eab7</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Xóa sản phẩm thành công'</defaultValue>
+      <description></description>
+      <id>02835884-96ad-43f6-97d6-138e52447b87</id>
+      <masked>false</masked>
+      <name>notification</name>
+   </variable>
+</TestCaseEntity>

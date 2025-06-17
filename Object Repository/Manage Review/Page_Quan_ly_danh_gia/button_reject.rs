@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_reject</name>
+   <tag></tag>
+   <elementGuidId>4d118c05-8ed6-47d8-b08e-80cc099bae87</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick=&quot;rejectReview('682fbb690643b6a994642777')&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#review-row-682fbb690643b6a994642777 > td:nth-of-type(7) > div.d-flex > button.btn.btn-warning.btn-sm.mr-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#review-row-682fbb690643b6a994642777 >> internal:role=button[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>38195214-09bb-4b6f-b3a6-95b170e73ceb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-warning btn-sm mr-1</value>
+      <webElementGuid>574e424e-ef97-46bd-911d-99a1127ef849</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>rejectReview('682fbb690643b6a994642777')</value>
+      <webElementGuid>4ab6fe60-5cc5-4f32-bbea-f23c9b0fb0be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;review-row-682fbb690643b6a994642777&quot;)/td[7]/div[@class=&quot;d-flex&quot;]/button[@class=&quot;btn btn-warning btn-sm mr-1&quot;]</value>
+      <webElementGuid>b596a055-0338-4881-9156-881d1a4000b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick=&quot;rejectReview('682fbb690643b6a994642777')&quot;]</value>
+      <webElementGuid>6754a360-34b8-41a0-8390-450470ecf2ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='review-row-682fbb690643b6a994642777']/td[7]/div/button[2]</value>
+      <webElementGuid>a3fd39fe-fd19-4b57-bfa0-64eb28f1cf9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chờ duyệt'])[4]/following::button[2]</value>
+      <webElementGuid>6fa4bec0-3c0f-4153-b681-3e14b7fb2651</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hehehehehheh'])[1]/following::button[2]</value>
+      <webElementGuid>e77648ce-7963-47b6-ad0a-eeba27bf9cda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ASUS Blackwell (Intel Core Ultra 9 285K/ VGA RTX 5090) (Powered by ASUS)'])[2]/preceding::button[2]</value>
+      <webElementGuid>49867ecc-e8a2-43c2-bdc2-c23bec9a9293</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='vantung11122003@gmail.com'])[3]/preceding::button[2]</value>
+      <webElementGuid>4d19e61c-0387-4d70-ad0b-ebdf6f3e7c2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[7]/div/button[2]</value>
+      <webElementGuid>25336730-ebd5-4fac-a488-c133d04d4953</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

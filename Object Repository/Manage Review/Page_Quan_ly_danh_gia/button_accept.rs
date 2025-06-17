@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_accept</name>
+   <tag></tag>
+   <elementGuidId>3c22e02f-c8f3-4487-aede-e93b832d88ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick=&quot;approveReview('6830a432e4c7f37b7a5996d1')&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-success.btn-sm.mr-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c3b293cc-ebb0-4473-be16-a3ce2bf98144</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-success btn-sm mr-1</value>
+      <webElementGuid>ba201c24-ac37-492f-8428-8a24635aa4b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>approveReview('6830a432e4c7f37b7a5996d1')</value>
+      <webElementGuid>c7292352-2108-4dec-9e84-512cb9e52c92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;review-row-6830a432e4c7f37b7a5996d1&quot;)/td[7]/div[@class=&quot;d-flex&quot;]/button[@class=&quot;btn btn-success btn-sm mr-1&quot;]</value>
+      <webElementGuid>eb51553e-1e47-49eb-96f9-4ad5133bad58</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick=&quot;approveReview('6830a432e4c7f37b7a5996d1')&quot;]</value>
+      <webElementGuid>88ea2898-9efd-4da9-8086-009b63353c28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='review-row-6830a432e4c7f37b7a5996d1']/td[7]/div/button</value>
+      <webElementGuid>9f5c16da-4c0c-4cb4-ad63-6cfbeadafae7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chờ duyệt'])[3]/following::button[1]</value>
+      <webElementGuid>d1bd735c-df49-46b2-a7f3-68b2e70030bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='piexlsnamdz001@gmail.com'])[2]/following::button[1]</value>
+      <webElementGuid>69dbd40c-e142-42b3-b574-8b7b7ab14d80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='vantung11122003@gmail.com'])[1]/preceding::button[3]</value>
+      <webElementGuid>c24d19e0-914c-42bc-aaa9-3f9ae64ac8c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sản phẩm 10 diểm'])[1]/preceding::button[3]</value>
+      <webElementGuid>5be38f83-3b9d-4d58-bf56-8e8848f59c7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/div/button</value>
+      <webElementGuid>91d6a6db-9932-4886-9dd2-1dd5ea7aee00</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

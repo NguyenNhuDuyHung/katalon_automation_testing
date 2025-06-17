@@ -21,17 +21,17 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:3000/')
 
-WebUI.click(findTestObject('Object Repository/Login/Page_Think Pro - Trang ch/a_ng nhp'))
+WebUI.click(findTestObject('Object Repository/Login/Page_Think Pro_Home/a_Login'))
 
-WebUI.setText(findTestObject('Object Repository/Login/Page_ng nhp/input_NG NHP_email'), email)
+WebUI.setText(findTestObject('Object Repository/Login/Page_Login/input_NG NHP_email'), email)
 
-WebUI.setText(findTestObject('Object Repository/Login/Page_ng nhp/input_NG NHP_password'), password)
+WebUI.setText(findTestObject('Object Repository/Login/Page_Login/input_NG NHP_password'), password)
 
-WebUI.click(findTestObject('Object Repository/Login/Page_ng nhp/button_ng nhp'))
+WebUI.click(findTestObject('Object Repository/Login/Page_Login/button_ng nhp'))
 
 WebUI.waitForPageLoad(3)
 
 WebUI.navigateToUrl('http://localhost:3000')
 
-WebUI.verifyElementText(findTestObject('Login/Page_Think Pro - Trang ch/a_Sn Tng M-TP', [('variable') : name]), name)
+WebUI.verifyElementText(findTestObject('Login/Page_Think Pro_Home/a_Username', [('variable') : name]), name)
 

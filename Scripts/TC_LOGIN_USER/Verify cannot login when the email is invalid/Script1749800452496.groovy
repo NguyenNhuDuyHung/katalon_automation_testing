@@ -17,19 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('http://localhost:3000/')
-
-WebUI.click(findTestObject('Object Repository/Login/Page_Think Pro - Trang ch/a_ng nhp'))
-
-WebUI.setText(findTestObject('Object Repository/Login/Page_ng nhp/input_NG NHP_email'), email)
-
-WebUI.setText(findTestObject('Object Repository/Login/Page_ng nhp/input_NG NHP_password'), password)
-
-WebUI.click(findTestObject('Object Repository/Login/Page_ng nhp/button_ng nhp'))
+CustomKeywords.'auth_package.login.loginMethod'(email, password)
 
 WebUI.waitForPageLoad(3)
 
-WebUI.verifyElementText(findTestObject('Login/Page_ng nhp/div_Email hoc mt khu khng ng'), expected_error)
+WebUI.verifyElementText(findTestObject('Login/Page_Login/div_notification'), expected_error)
 

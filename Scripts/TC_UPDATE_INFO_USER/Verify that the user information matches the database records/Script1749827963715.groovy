@@ -17,19 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.maximizeWindow()
-
-WebUI.navigateToUrl('http://localhost:3000/')
-
-WebUI.click(findTestObject('Update_Info_User/Page_Think Pro - Trang ch/button_login'))
-
-WebUI.setText(findTestObject('Update_Info_User/Page_ng nhp/input_NG NHP_email'), email_login)
-
-WebUI.setText(findTestObject('Update_Info_User/Page_ng nhp/input_NG NHP_password'), password_login)
-
-WebUI.click(findTestObject('Update_Info_User/Page_ng nhp/button_ng nhp'))
+CustomKeywords.'auth_package.login.loginMethod'(email_login, password_login)
 
 WebUI.waitForPageLoad(3)
 
@@ -44,13 +32,13 @@ phone_ui = WebUI.getAttribute(findTestObject('Update_Info_User/Page_Thng tin ti 
 
 WebUI.verifyMatch(phone_ui, phone_database, false)
 
-WebUI.verifyOptionSelectedByValue(findTestObject('Update_Info_User/Page_Thng tin ti khon/select_-- Chn TnhThnh'), city_database, 
+WebUI.verifyOptionSelectedByValue(findTestObject('Update_Info_User/Page_Thng tin ti khon/select_-- city'), city_database, 
     false, 0)
 
-WebUI.verifyOptionSelectedByValue(findTestObject('Update_Info_User/Page_Thng tin ti khon/select_-- Chn QunHuyn'), district_database, 
+WebUI.verifyOptionSelectedByValue(findTestObject('Update_Info_User/Page_Thng tin ti khon/select_-- district'), district_database, 
     false, 0)
 
-WebUI.verifyOptionSelectedByValue(findTestObject('Update_Info_User/Page_Thng tin ti khon/select_-- Chn PhngX'), locate_database, 
+WebUI.verifyOptionSelectedByValue(findTestObject('Update_Info_User/Page_Thng tin ti khon/select_-- ward'), locate_database, 
     false, 0)
 
 detail_locate_ui = WebUI.getAttribute(findTestObject('Update_Info_User/Page_Thng tin ti khon/textarea_1_detail_location'), 

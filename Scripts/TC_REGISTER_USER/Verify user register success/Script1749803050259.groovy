@@ -21,41 +21,41 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:3000/')
 
-WebUI.click(findTestObject('Object Repository/Register/Page_Think Pro - Trang ch/a_ng nhp'))
+WebUI.click(findTestObject('Object Repository/Register/Page_Think Pro_Home/a_Login'))
 
-WebUI.click(findTestObject('Object Repository/Register/Page_ng nhp/a_ng k ngay'))
+WebUI.click(findTestObject('Object Repository/Register/Page_Login/a_register_now'))
 
-WebUI.setText(findTestObject('Object Repository/Register/Page_ng k ti khon/input_NG K_name'), fullname)
+WebUI.setText(findTestObject('Object Repository/Register/Page_Register/input_NG K_name'), fullname)
 
-WebUI.setText(findTestObject('Object Repository/Register/Page_ng k ti khon/input_NG K_email'), email)
+WebUI.setText(findTestObject('Object Repository/Register/Page_Register/input_NG K_email'), email)
 
-WebUI.setText(findTestObject('Object Repository/Register/Page_ng k ti khon/input_NG K_phone'), phone)
+WebUI.setText(findTestObject('Object Repository/Register/Page_Register/input_NG K_phone'), phone)
 
-WebUI.click(findTestObject('Register/Page_ng k ti khon/select_-- Chn TnhThnh ph --                _535c4d'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Register/Page_Register/select_-- city'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.selectOptionByValue(findTestObject('Register/Page_ng k ti khon/select_-- Chn TnhThnh ph --                _535c4d', 
+WebUI.selectOptionByValue(findTestObject('Register/Page_Register/select_-- city', 
         [('variable') : city]), city, true)
 
-WebUI.click(findTestObject('Register/Page_ng k ti khon/select_-- Chn QunHuyn --Huyn Ba VQun Ba nhQ_e2d5aa'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Register/Page_Register/select_-- district'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.selectOptionByValue(findTestObject('Register/Page_ng k ti khon/select_-- Chn QunHuyn --Huyn Ba VQun Ba nhQ_e2d5aa', 
+WebUI.selectOptionByValue(findTestObject('Register/Page_Register/select_-- district', 
         [('variable') : district]), district, true)
 
-WebUI.click(findTestObject('Register/Page_ng k ti khon/select_-- Chn PhngX --X H MX Hng HX Lin HX _9e55bc'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Register/Page_Register/select_-- ward'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.selectOptionByValue(findTestObject('Register/Page_ng k ti khon/select_-- Chn PhngX --X H MX Hng HX Lin HX _9e55bc', 
+WebUI.selectOptionByValue(findTestObject('Register/Page_Register/select_-- ward', 
         [('variable') : locate]), locate, true)
 
-WebUI.setText(findTestObject('Object Repository/Register/Page_ng k ti khon/textarea_NG K_address'), detail_location)
+WebUI.setText(findTestObject('Object Repository/Register/Page_Register/textarea_NG K_address'), detail_location)
 
-WebUI.setText(findTestObject('Object Repository/Register/Page_ng k ti khon/input_NG K_password'), password)
+WebUI.setText(findTestObject('Object Repository/Register/Page_Register/input_NG K_password'), password)
 
-WebUI.setText(findTestObject('Object Repository/Register/Page_ng k ti khon/input_NG K_confirmPassword'), confirm_password)
+WebUI.setText(findTestObject('Object Repository/Register/Page_Register/input_NG K_confirmPassword'), confirm_password)
 
-WebUI.click(findTestObject('Object Repository/Register/Page_ng k ti khon/button_ng k'))
+WebUI.click(findTestObject('Object Repository/Register/Page_Register/button_ng k'))
 
 WebUI.waitForPageLoad(3)
 
-WebUI.verifyElementText(findTestObject('Register/Page_ng nhp/div_ng k thnh cng Vui lng kim tra email  xc_72cdac', [('variable') : expected_success]), 
+WebUI.verifyElementText(findTestObject('Register/Page_Login/div_notification_login', [('variable') : expected_success]), 
     expected_success)
 

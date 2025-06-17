@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Quan_Ly_San_Pahm</name>
+   <tag></tag>
+   <elementGuidId>8b34c8de-e6f8-4a13-8989-c29830e11023</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='menu']/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.has-arrow</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Quản lý sản phẩm&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>af29b70a-13b7-485c-9f45-d57fdad9031c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>has-arrow</value>
+      <webElementGuid>0cf24d29-210c-420b-9ce8-8a254c2b4c10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void()</value>
+      <webElementGuid>6786fa83-1969-4d21-b0c9-04413dd2cbd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>94a5a01d-b1aa-461b-bb9d-aac190847b72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    Quản lý sản phẩm
+                </value>
+      <webElementGuid>839b4ed4-247b-4c03-91c8-c7a2a1f75cb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu&quot;)/li[3]/a[@class=&quot;has-arrow&quot;]</value>
+      <webElementGuid>cfb2d6d4-5e2f-413c-8ff1-f9f84c2a19d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='menu']/li[3]/a</value>
+      <webElementGuid>f54285ad-4ba5-4486-ba3f-262121db394c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quản lý người dùng'])[1]/following::a[1]</value>
+      <webElementGuid>f0f0345b-7c91-414c-913b-bde471fe8d5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tổng quan'])[1]/following::a[2]</value>
+      <webElementGuid>72132fd4-be0d-4632-abc3-fc53d1cb06e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Danh mục sản phẩm'])[1]/preceding::a[1]</value>
+      <webElementGuid>d16e01c6-35c9-41f5-a804-70607a492d9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:void()')]</value>
+      <webElementGuid>421eba4c-a52f-434c-826b-a9ab7e759e0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a</value>
+      <webElementGuid>70b68713-d323-49ac-873b-d182ade0b122</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void()' and (text() = '
+                    Quản lý sản phẩm
+                ' or . = '
+                    Quản lý sản phẩm
+                ')]</value>
+      <webElementGuid>b3378fc2-6c0d-457f-9efd-c1af1f7b1f35</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

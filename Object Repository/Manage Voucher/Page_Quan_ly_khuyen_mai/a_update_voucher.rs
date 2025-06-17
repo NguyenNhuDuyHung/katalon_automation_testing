@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_update_voucher</name>
+   <tag></tag>
+   <elementGuidId>0c0bc03e-457b-4293-8455-82000f59ca67</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='DataTables_Table_0']/tbody/tr/td[8]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-primary.btn-sm.mr-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;DONHANG500TRIEU Áp dụng với các đơn hàng có giá > 500 triệu Phần trăm 70% 1/5/2025 - 31/5/2025 9 Hết hạn  &quot;i] >> internal:role=link</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ea61d033-9d25-4b5f-b871-701a8d19a1ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/admin/coupons/edit/6812f626bbb9e94fbfd1084f</value>
+      <webElementGuid>92b35fed-34fe-40df-8b5b-ec473ee4df6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-sm mr-2</value>
+      <webElementGuid>beb929bb-2032-4a29-a5cf-a8779c837e83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DataTables_Table_0&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[8]/div[@class=&quot;d-flex&quot;]/a[@class=&quot;btn btn-primary btn-sm mr-2&quot;]</value>
+      <webElementGuid>ed166f71-59c6-455a-a84f-ef696488936f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='DataTables_Table_0']/tbody/tr/td[8]/div/a</value>
+      <webElementGuid>cc0fbcf6-049b-495b-b5a0-e42fad4ecf80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hết hạn'])[1]/following::a[1]</value>
+      <webElementGuid>e2fd8c1b-2bbf-4f4d-b14e-834424233c89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phần trăm'])[1]/following::a[1]</value>
+      <webElementGuid>7ca04af3-7424-44cf-9e67-0159888a6707</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PDU'])[1]/preceding::a[1]</value>
+      <webElementGuid>ab586717-ac1c-4def-a3f2-ea84a04b812b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mã khuyến mãi dành cho sinh viên trường Đại Học Phương Đông'])[1]/preceding::a[1]</value>
+      <webElementGuid>e3254212-7b6b-4237-ad41-3e090af3a6a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/admin/coupons/edit/6812f626bbb9e94fbfd1084f')]</value>
+      <webElementGuid>7b8cd933-e592-4306-833d-e5532da99d3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[8]/div/a</value>
+      <webElementGuid>803f3e2c-e7f5-4e5c-b057-1ac83883971a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/admin/coupons/edit/6812f626bbb9e94fbfd1084f']</value>
+      <webElementGuid>e96d6d5b-1a53-4c69-93fe-f2ab65c7b712</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

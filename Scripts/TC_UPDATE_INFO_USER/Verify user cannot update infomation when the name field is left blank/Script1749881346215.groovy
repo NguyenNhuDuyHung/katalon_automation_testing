@@ -17,19 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.maximizeWindow()
-
-WebUI.navigateToUrl('http://localhost:3000/')
-
-WebUI.click(findTestObject('Update_Info_User/Page_Think Pro - Trang ch/button_login'))
-
-WebUI.setText(findTestObject('Update_Info_User/Page_ng nhp/input_NG NHP_email'), email_login)
-
-WebUI.setText(findTestObject('Update_Info_User/Page_ng nhp/input_NG NHP_password'), password_login)
-
-WebUI.click(findTestObject('Update_Info_User/Page_ng nhp/button_ng nhp'))
+CustomKeywords.'auth_package.login.loginMethod'(email_login, password_login)
 
 WebUI.waitForPageLoad(3)
 
@@ -39,24 +27,22 @@ WebUI.setText(findTestObject('Update_Info_User/Page_Thng tin ti khon/input_H_use
 
 WebUI.setText(findTestObject('Update_Info_User/Page_Thng tin ti khon/input_S_phone'), phone_update)
 
-WebUI.click(findTestObject('Update_Info_User/Page_Thng tin ti khon/select_-- Chn TnhThnh'))
+WebUI.click(findTestObject('Update_Info_User/Page_Thng tin ti khon/select_-- city'))
 
-WebUI.selectOptionByValue(findTestObject('Update_Info_User/Page_Thng tin ti khon/select_-- Chn TnhThnh', [('variable') : city_update]), 
+WebUI.selectOptionByValue(findTestObject('Update_Info_User/Page_Thng tin ti khon/select_-- city', [('variable') : city_update]), 
     city_update, true)
 
-WebUI.click(findTestObject('Update_Info_User/Page_Thng tin ti khon/select_-- Chn QunHuyn'))
+WebUI.click(findTestObject('Update_Info_User/Page_Thng tin ti khon/select_-- district'))
 
-WebUI.selectOptionByValue(findTestObject('Update_Info_User/Page_Thng tin ti khon/select_-- Chn QunHuyn', [('variable') : district_update]), 
+WebUI.selectOptionByValue(findTestObject('Update_Info_User/Page_Thng tin ti khon/select_-- district', [('variable') : district_update]), 
     district_update, true)
 
-WebUI.click(findTestObject('Update_Info_User/Page_Thng tin ti khon/select_-- Chn PhngX'))
+WebUI.click(findTestObject('Update_Info_User/Page_Thng tin ti khon/select_-- ward'))
 
-WebUI.selectOptionByValue(findTestObject('Update_Info_User/Page_Thng tin ti khon/select_-- Chn PhngX', [('variable') : locate_update]), 
+WebUI.selectOptionByValue(findTestObject('Update_Info_User/Page_Thng tin ti khon/select_-- ward', [('variable') : locate_update]), 
     locate_update, true)
 
 WebUI.setText(findTestObject('Update_Info_User/Page_Thng tin ti khon/textarea_1_detail_location'), detail_locate_update)
-
-WebUI.scrollToElement(findTestObject('Update_Info_User/Page_Thng tin ti khon/button_update_info'), 2)
 
 WebUI.click(findTestObject('Update_Info_User/Page_Thng tin ti khon/button_update_info'))
 

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_minus</name>
+   <tag></tag>
+   <elementGuidId>6c84d41b-b3cb-41ef-b5a9-8a350d77b16e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Mã sản phẩm: 68189df5c7bb52222494ec21'])[1]/following::div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.quantity-btn.decrease</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;-&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bafd7a33-03a0-4d30-bd69-4981b74b2eaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>quantity-btn decrease</value>
+      <webElementGuid>56093b4e-14d4-43eb-968b-0c0d29d82e57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>68189df5c7bb52222494ec21</value>
+      <webElementGuid>82b41c8b-4ced-4476-b784-8eaeed87ef95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-</value>
+      <webElementGuid>5cd40bc4-d5ed-4409-87d1-4f5c23ef1622</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container mt-4 mb-5&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;cart-items mb-4&quot;]/div[@class=&quot;cart-item&quot;]/div[@class=&quot;row align-items-center&quot;]/div[@class=&quot;col-md-2 text-center&quot;]/div[@class=&quot;quantity-control&quot;]/div[@class=&quot;quantity-btn decrease&quot;]</value>
+      <webElementGuid>ab801e7a-4c2d-4d06-a209-043a0a433e83</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mã sản phẩm: 68189df5c7bb52222494ec21'])[1]/following::div[3]</value>
+      <webElementGuid>4a99245b-6bc0-47c3-99eb-58209d8ee972</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Giỏ hàng của bạn'])[1]/following::div[10]</value>
+      <webElementGuid>28e7102b-929d-4fb5-ac56-374c41ded4a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[1]/preceding::div[1]</value>
+      <webElementGuid>26e4cd23-165b-403a-b159-55121021312b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='-']/parent::*</value>
+      <webElementGuid>33bb2f65-70ee-42ac-93d0-e15f5e2788fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div</value>
+      <webElementGuid>86ecdf4b-9f5d-4a81-a407-25eb3158e9d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '-' or . = '-')]</value>
+      <webElementGuid>bb5eac11-ef1d-4dd7-94cf-85dc6e4e73a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

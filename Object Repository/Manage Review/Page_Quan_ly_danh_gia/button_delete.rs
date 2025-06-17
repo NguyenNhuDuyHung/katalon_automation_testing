@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_delete</name>
+   <tag></tag>
+   <elementGuidId>547f266f-dde5-4489-8ad3-9c7005054ae0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick=&quot;deleteReview('682e0616e6c513d004bb5ebf')&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#review-row-682e0616e6c513d004bb5ebf > td:nth-of-type(7) > div.d-flex > button.btn.btn-danger.btn-sm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;ASUS Blackwell (Intel Core Ultra 9 285K/ VGA RTX 5090) (Powered by ASUS) ASUS Blackwell (Intel Core Ultra 9 285K/ VGA RTX 5090) (Powered by ASUS) Tùng Nguyễn vantung11122003@gmail.com      heheeeeeeeeeeee 21/5/2025 Chờ duyệt   &quot;i] >> internal:role=button >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1905c8e8-621b-44df-9dd6-ed2756d44a1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-danger btn-sm</value>
+      <webElementGuid>6d019662-30ef-43e8-8b02-ae3ee043c6bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>deleteReview('682e0616e6c513d004bb5ebf')</value>
+      <webElementGuid>a4b1c996-6ad8-4f60-9679-326de2bfad7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;review-row-682e0616e6c513d004bb5ebf&quot;)/td[7]/div[@class=&quot;d-flex&quot;]/button[@class=&quot;btn btn-danger btn-sm&quot;]</value>
+      <webElementGuid>6f28901f-bb0a-4c54-a286-a048ce949154</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick=&quot;deleteReview('682e0616e6c513d004bb5ebf')&quot;]</value>
+      <webElementGuid>a02ecf45-8026-4a48-949e-127b2c773aef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='review-row-682e0616e6c513d004bb5ebf']/td[7]/div/button[3]</value>
+      <webElementGuid>e11df486-2917-4623-a3a3-2d6afc74a286</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chờ duyệt'])[5]/following::button[3]</value>
+      <webElementGuid>13920b5c-5275-42c4-896e-73740f935745</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='heheeeeeeeeeeee'])[1]/following::button[3]</value>
+      <webElementGuid>a0d127fc-fcd1-4e08-ab3d-651d816b8fe0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dell Inspiron 14 Plus 7440 - i5 12450H, 16GB, 512GB, FHD+ - Ice Blue - Mới, Sealed, Nhập khẩu'])[1]/preceding::button[1]</value>
+      <webElementGuid>c4d7d26c-fc7e-455b-b5ba-b2ce6418c3c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='vantung11122003@gmail.com'])[4]/preceding::button[1]</value>
+      <webElementGuid>5a731c72-6768-49e5-af5e-c04b4ee9549c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[7]/div/button[3]</value>
+      <webElementGuid>07666106-1c95-425c-b97e-050ec7957130</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

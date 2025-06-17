@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_-- city</name>
+   <tag></tag>
+   <elementGuidId>f8fab1f7-4294-448f-9d42-1db40b244778</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='tinh']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#tinh</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#tinh</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>dbf4ac2f-5faa-4e06-b687-0abdf6a18bf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>7dd2a2fa-9b0b-4a06-8713-9640e8d8ffb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>tinh</value>
+      <webElementGuid>4b558ee5-f5ca-4bd5-bf86-4703e9a4ef30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>city</value>
+      <webElementGuid>9171f037-6a0c-4a19-b7a9-584e89a31e08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                    -- Chọn Tỉnh/Thành phố --
+                                                Tỉnh An GiangTỉnh Bà Rịa - Vũng TàuTỉnh Bắc GiangTỉnh Bắc KạnTỉnh Bạc LiêuTỉnh Bắc NinhTỉnh Bến TreTỉnh Bình DươngTỉnh Bình PhướcTỉnh Bình ThuậnTỉnh Bình ĐịnhTỉnh Cà MauThành phố Cần ThơTỉnh Cao BằngTỉnh Gia LaiTỉnh Hà GiangTỉnh Hà NamThành phố Hà NộiTỉnh Hà TĩnhTỉnh Hải DươngThành phố Hải PhòngTỉnh Hậu GiangThành phố Hồ Chí MinhTỉnh Hoà BìnhTỉnh Hưng YênTỉnh Khánh HòaTỉnh Kiên GiangTỉnh Kon TumTỉnh Lai ChâuTỉnh Lâm ĐồngTỉnh Lạng SơnTỉnh Lào CaiTỉnh Long AnTỉnh Nam ĐịnhTỉnh Nghệ AnTỉnh Ninh BìnhTỉnh Ninh ThuậnTỉnh Phú ThọTỉnh Phú YênTỉnh Quảng BìnhTỉnh Quảng NamTỉnh Quảng NgãiTỉnh Quảng NinhTỉnh Quảng TrịTỉnh Sóc TrăngTỉnh Sơn LaTỉnh Tây NinhTỉnh Thái BìnhTỉnh Thái NguyênTỉnh Thanh HóaTỉnh Thừa Thiên HuếTỉnh Tiền GiangTỉnh Trà VinhTỉnh Tuyên QuangTỉnh Vĩnh LongTỉnh Vĩnh PhúcTỉnh Yên BáiThành phố Đà NẵngTỉnh Đắk LắkTỉnh Đắk NôngTỉnh Điện BiênTỉnh Đồng NaiTỉnh Đồng Tháp</value>
+      <webElementGuid>7622353b-a6a1-4d97-8a03-a90630cd7d8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tinh&quot;)</value>
+      <webElementGuid>744c92b6-eee3-414e-8d80-9933e485379d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='tinh']</value>
+      <webElementGuid>58278faa-171e-4d7b-9388-3c3fddf60ff2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-wrapper']/div[3]/div[2]/div/div/div/div/div/form/div[4]/div/select</value>
+      <webElementGuid>7775f5ae-f356-472c-8ef0-40a5a057da92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/following::select[1]</value>
+      <webElementGuid>99e5aad7-ab41-49ca-859a-e4c33af0902a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/preceding::select[1]</value>
+      <webElementGuid>a9abc903-152d-4f1c-9052-5e3a78affb67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/select</value>
+      <webElementGuid>ce71260f-1e96-4376-bc55-d4954c895261</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'tinh' and @name = 'city' and (text() = '
+                                                    -- Chọn Tỉnh/Thành phố --
+                                                Tỉnh An GiangTỉnh Bà Rịa - Vũng TàuTỉnh Bắc GiangTỉnh Bắc KạnTỉnh Bạc LiêuTỉnh Bắc NinhTỉnh Bến TreTỉnh Bình DươngTỉnh Bình PhướcTỉnh Bình ThuậnTỉnh Bình ĐịnhTỉnh Cà MauThành phố Cần ThơTỉnh Cao BằngTỉnh Gia LaiTỉnh Hà GiangTỉnh Hà NamThành phố Hà NộiTỉnh Hà TĩnhTỉnh Hải DươngThành phố Hải PhòngTỉnh Hậu GiangThành phố Hồ Chí MinhTỉnh Hoà BìnhTỉnh Hưng YênTỉnh Khánh HòaTỉnh Kiên GiangTỉnh Kon TumTỉnh Lai ChâuTỉnh Lâm ĐồngTỉnh Lạng SơnTỉnh Lào CaiTỉnh Long AnTỉnh Nam ĐịnhTỉnh Nghệ AnTỉnh Ninh BìnhTỉnh Ninh ThuậnTỉnh Phú ThọTỉnh Phú YênTỉnh Quảng BìnhTỉnh Quảng NamTỉnh Quảng NgãiTỉnh Quảng NinhTỉnh Quảng TrịTỉnh Sóc TrăngTỉnh Sơn LaTỉnh Tây NinhTỉnh Thái BìnhTỉnh Thái NguyênTỉnh Thanh HóaTỉnh Thừa Thiên HuếTỉnh Tiền GiangTỉnh Trà VinhTỉnh Tuyên QuangTỉnh Vĩnh LongTỉnh Vĩnh PhúcTỉnh Yên BáiThành phố Đà NẵngTỉnh Đắk LắkTỉnh Đắk NôngTỉnh Điện BiênTỉnh Đồng NaiTỉnh Đồng Tháp' or . = '
+                                                    -- Chọn Tỉnh/Thành phố --
+                                                Tỉnh An GiangTỉnh Bà Rịa - Vũng TàuTỉnh Bắc GiangTỉnh Bắc KạnTỉnh Bạc LiêuTỉnh Bắc NinhTỉnh Bến TreTỉnh Bình DươngTỉnh Bình PhướcTỉnh Bình ThuậnTỉnh Bình ĐịnhTỉnh Cà MauThành phố Cần ThơTỉnh Cao BằngTỉnh Gia LaiTỉnh Hà GiangTỉnh Hà NamThành phố Hà NộiTỉnh Hà TĩnhTỉnh Hải DươngThành phố Hải PhòngTỉnh Hậu GiangThành phố Hồ Chí MinhTỉnh Hoà BìnhTỉnh Hưng YênTỉnh Khánh HòaTỉnh Kiên GiangTỉnh Kon TumTỉnh Lai ChâuTỉnh Lâm ĐồngTỉnh Lạng SơnTỉnh Lào CaiTỉnh Long AnTỉnh Nam ĐịnhTỉnh Nghệ AnTỉnh Ninh BìnhTỉnh Ninh ThuậnTỉnh Phú ThọTỉnh Phú YênTỉnh Quảng BìnhTỉnh Quảng NamTỉnh Quảng NgãiTỉnh Quảng NinhTỉnh Quảng TrịTỉnh Sóc TrăngTỉnh Sơn LaTỉnh Tây NinhTỉnh Thái BìnhTỉnh Thái NguyênTỉnh Thanh HóaTỉnh Thừa Thiên HuếTỉnh Tiền GiangTỉnh Trà VinhTỉnh Tuyên QuangTỉnh Vĩnh LongTỉnh Vĩnh PhúcTỉnh Yên BáiThành phố Đà NẵngTỉnh Đắk LắkTỉnh Đắk NôngTỉnh Điện BiênTỉnh Đồng NaiTỉnh Đồng Tháp')]</value>
+      <webElementGuid>b2d60d39-e532-48bd-b98e-6c4c45e386ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

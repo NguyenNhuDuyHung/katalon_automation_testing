@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify admin delete voucher</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ce6298a2-1167-4998-9d10-01c8b0869532</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c81c6e65-6ab2-44df-b85c-0f1dda378f94</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Đã xóa mã khuyến mãi thành công'</defaultValue>
+      <description></description>
+      <id>c81c6e65-6ab2-44df-b85c-0f1dda378f94</id>
+      <masked>false</masked>
+      <name>notification</name>
+   </variable>
+</TestCaseEntity>

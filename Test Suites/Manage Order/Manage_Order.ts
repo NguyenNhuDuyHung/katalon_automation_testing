@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Manage_Order</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>a6df4d03-553f-4869-962d-51216a5c28ef</testSuiteGuid>
+   <testCaseLink>
+      <guid>ed506a37-cf49-41a9-9b99-e1d974024fb0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_ADMIN_MANAGER_ORDER/Verify admin update order</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>862e6d8d-22cb-401d-ae02-ee4fda57a52b</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Manage Order/Manage_Order_Data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>862e6d8d-22cb-401d-ae02-ee4fda57a52b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>admin_note</value>
+         <variableId>bbe51407-7bf6-43fc-9069-273f35e6e645</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>862e6d8d-22cb-401d-ae02-ee4fda57a52b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>tracking_code</value>
+         <variableId>2c0c5dfa-c91f-4690-9fbd-deefd5700e99</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>862e6d8d-22cb-401d-ae02-ee4fda57a52b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>notification</value>
+         <variableId>43ed4fe4-1bbf-46d0-a1e5-7a7aa0f0e06d</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

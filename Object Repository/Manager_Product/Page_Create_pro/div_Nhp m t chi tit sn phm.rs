@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Nhp m t chi tit sn phm</name>
+   <tag></tag>
+   <elementGuidId>f89e1a4a-c337-4abf-9755-9ebf339e9e00</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-wrapper']/div[3]/div[2]/div/div/div/div/div/form/div[10]/div/div/div[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.note-placeholder</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Nhập mô tả chi tiết sản phẩm...&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d963aa4f-66bd-45f2-8019-d86715b3810b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>note-placeholder</value>
+      <webElementGuid>8d112422-1f92-4df3-9ee0-4cc4fb0777d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nhập mô tả chi tiết sản phẩm...</value>
+      <webElementGuid>b68375ec-4542-4451-a9b5-f11981b37c57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-wrapper&quot;)/div[@class=&quot;content-body&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;basic-form&quot;]/form[1]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-sm-10&quot;]/div[@class=&quot;note-editor note-frame panel panel-default&quot;]/div[@class=&quot;note-editing-area&quot;]/div[@class=&quot;note-placeholder&quot;]</value>
+      <webElementGuid>b33c822d-9630-40cd-b0ff-b870766dacd9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-wrapper']/div[3]/div[2]/div/div/div/div/div/form/div[10]/div/div/div[3]/div</value>
+      <webElementGuid>d9f03d3c-30ac-47e7-b078-4923782e3a17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset to default'])[1]/following::div[27]</value>
+      <webElementGuid>d1e3219d-5a99-4733-b205-3204f0a3d189</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Foreground Color'])[1]/following::div[28]</value>
+      <webElementGuid>1c043bdf-ff67-4011-a958-5916555cee37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Insert Link'])[1]/preceding::div[15]</value>
+      <webElementGuid>e0143015-09d1-43c2-b5d0-9fca4122c208</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Text to display'])[1]/preceding::div[16]</value>
+      <webElementGuid>e228c6ba-8b6d-4650-9faf-31a84ebea789</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nhập mô tả chi tiết sản phẩm...']/parent::*</value>
+      <webElementGuid>1f350c8d-e08e-4fc4-81d3-6c700dcd7ae6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[3]/div</value>
+      <webElementGuid>69bb39bb-fd99-4eb7-889d-ddcf763fff88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Nhập mô tả chi tiết sản phẩm...' or . = 'Nhập mô tả chi tiết sản phẩm...')]</value>
+      <webElementGuid>625c5e9b-3bc4-4a92-aba4-28c76518f553</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

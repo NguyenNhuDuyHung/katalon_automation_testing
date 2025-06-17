@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon_star</name>
+   <tag></tag>
+   <elementGuidId>60c974cd-0feb-4537-8c21-5db79b8633c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='review-form']/div/div/div/span[5]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#review-form div >> internal:has-text=&quot;Đánh giá của bạn: Chọn số sao&quot;i >> i >> nth=4</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>923163f6-cdf3-4dc0-82dc-ad216abdd4d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>far fa-star</value>
+      <webElementGuid>2acdc153-5987-4e98-84c2-8013d941caaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;review-form&quot;)/div[@class=&quot;mb-3&quot;]/div[@class=&quot;rating-container d-flex align-items-center mb-2&quot;]/div[@class=&quot;stars me-2&quot;]/span[@class=&quot;rating-star&quot;]/i[@class=&quot;far fa-star&quot;]</value>
+      <webElementGuid>f178c387-ea7b-48b0-acda-45b3292e5d8a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='review-form']/div/div/div/span[5]/i</value>
+      <webElementGuid>ddaf2231-82a7-464a-a3ce-b099f2e87bef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[5]/i</value>
+      <webElementGuid>761c6ed1-6399-4ba3-9e1f-ffc066edbdd7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

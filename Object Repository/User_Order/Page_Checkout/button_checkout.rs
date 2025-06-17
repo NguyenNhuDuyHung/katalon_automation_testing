@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_checkout</name>
+   <tag></tag>
+   <elementGuidId>8986bea4-c648-4c51-8ce8-4cd1a1fda9b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.btn-lg.w-100.mt-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; Đặt hàng&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c2179d76-a97c-42d1-b8fb-45ccb3a9a16f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>8f845556-0cfe-40ce-b075-459e278bafe1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-lg w-100 mt-3</value>
+      <webElementGuid>c469ab34-af1e-4a3a-b488-c83ca428b93b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                     Đặt hàng
+                                </value>
+      <webElementGuid>fc749e73-96f8-45c3-a1f4-e5272d26951c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkout-form&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-5&quot;]/div[@class=&quot;card mb-4&quot;]/div[@class=&quot;card-body&quot;]/button[@class=&quot;btn btn-primary btn-lg w-100 mt-3&quot;]</value>
+      <webElementGuid>42b42bb9-a4f4-4383-bbed-6f613d0b9b7f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[2]</value>
+      <webElementGuid>8e0beb98-844d-4e25-b6b7-bb65d66aee82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='checkout-form']/div/div[2]/div/div[2]/button</value>
+      <webElementGuid>8c4610fd-51d2-47bd-b5f7-ec219d1d7b69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tổng cộng'])[1]/following::button[1]</value>
+      <webElementGuid>c05ccaf8-8689-49e6-8365-6903843bd516</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Đặt hàng']/parent::*</value>
+      <webElementGuid>eb3b0dee-23ba-42ca-a358-e14851f01981</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>3ba6dd77-e337-46c5-9cb5-0f09034d3eea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = '
+                                     Đặt hàng
+                                ' or . = '
+                                     Đặt hàng
+                                ')]</value>
+      <webElementGuid>9ed7f7cf-4997-42cb-8ec0-31e1217238f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
