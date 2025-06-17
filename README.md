@@ -12,6 +12,14 @@
 
 - Đăng ký / Đăng nhập
 - Cập nhật thông tin người dùng
+- Quản lý giỏ hàng
+- Quản lý người dùng
+- Quản lý đơn hàng
+- Quản lý mã giảm giá
+- Quản lý danh mục sản phẩm
+- Quản lý sản phẩm
+- Quản lý đánh giá sản phẩm
+- Đánh giá sản phẩm
 
 ## 🔗 Liên kết tham khảo
 
